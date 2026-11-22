@@ -1,0 +1,4 @@
+backups/
+crashwatch.marker
+node_modules/
+*.log
